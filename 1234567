@@ -1,0 +1,11 @@
+
+
+a = "Ｏ"
+b = "Ｘ"
+m = "[ ][ ][ ]\n[ ][ ][ ]\n[ ][ ][ ]"
+print(m)
+
+def ttt():
+
+# for i in range(0, 9):
+#     print(input())
